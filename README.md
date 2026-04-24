@@ -28,4 +28,4 @@
 - 🎓 Mentorship Platform: Full-stack app with MySQL, Docker, and Power BI dashboard
 - 🤟 Sign Language Detection: Real-time translation, Best Project award at RAIN
 
-⚡ Fun fact: I started my AI career with a Biochemistry degree and built everything else from scratch.
+⚡ Fun fact: I started my AI career with a Robotics and Artificial Intelligence, https://rainigeria.com/,  and built everything else from scratch.
